@@ -19,5 +19,5 @@ examinations and fees.
 9. Testing
 10. Documentation
 
- Objective
+     Objective
 The objective of the College Management System is to manage student, faculty, course, attendance, examination, and fee information in an organized and efficient way. It aims to reduce manual work, improve data management, save time, and provide easy access to college information.
